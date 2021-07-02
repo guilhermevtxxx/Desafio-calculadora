@@ -30,4 +30,7 @@ primeironumero = 10
 segundonumero =  0
 print(div(primeironumero, segundonumero))
 
+#ola 
+
+
 
